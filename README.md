@@ -58,35 +58,4 @@ Welcome to my GitHub profile! I'm a **Workforce Planner Analyst** with a strong 
 
 ---
 
-## 📂 Featured Projects  
-
-### 🔗 [Project 1: Sales Forecasting Using Python](#)  
-A forecasting model to predict sales using historical data, employing libraries like Pandas and Matplotlib for insights.  
-
-![Forecasting Dashboard](https://via.placeholder.com/800x400.png)  
-
-### 🔗 [Project 2: Interactive Power BI Dashboard](#)  
-Created a real-time dashboard to visualize workforce trends and optimize operations.  
-
-![Power BI Dashboard](https://via.placeholder.com/800x400.png)  
-
-### 🔗 [Project 3: SQL Query Optimization](#)  
-Analyzed and optimized queries for faster data retrieval in a large database environment.
-
----
-
-## 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
-
-## 🚀 Let's Connect!  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YourProfile)  
-- 📧 [Email](mailto:YourEmail@example.com)  
-
----
-
 ⭐ **Feel free to explore my repositories and connect if you're interested in collaborating!**
