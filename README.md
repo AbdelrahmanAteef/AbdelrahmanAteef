@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Workforce Planner Analyst** with a strong 
 <h3 align="center">My Portfolio Website and My Resume</h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://github.com/giocoal/giocoal/raw/main/Images/primaversione1Rounded.png" alt="Abdelrahman Atef" height="40" width="40" /></a>
-<a href="https://drive.google.com/file/d/10iCUl3VoyNJW5D_P5aerpa85nn8S8hAU/view?usp=drivesdk" target="blank"><img align="center" src="https://camo.githubusercontent.com/f04e7ea7ecaf67991ceec40927c557be1dd0b6c9fd3e08714839d35d16f6fcce/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963652f3531322f70617273652d66726f6d2d636c6970626f6172642e706e67" alt="Abdelrahman Atef" height="40" width="40" /></a>
+<a href="https://drive.google.com/file/d/1ommQE6XV7b0arEIgGR30dYzWID6_e9Q-/view?usp=sharing" target="blank"><img align="center" src="https://camo.githubusercontent.com/f04e7ea7ecaf67991ceec40927c557be1dd0b6c9fd3e08714839d35d16f6fcce/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963652f3531322f70617273652d66726f6d2d636c6970626f6172642e706e67" alt="Abdelrahman Atef" height="40" width="40" /></a>
 </p>
 
 
