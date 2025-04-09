@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman Atef!</h1>
-<h3 align="center">🌟 Workforce Planner Analyst Aspiring to Be a Data Scientist</h3>
+<h3 align="center">🌟 Senior Forecasting Analyst Aspiring to Be a Data Scientist</h3>
 
 Welcome to my GitHub profile! I'm a **Workforce Planner Analyst** with a strong passion for **Data Science** and a drive to unlock the power of data. My goal is to build scalable solutions and extract meaningful insights through my expertise in tools and technologies.
 
